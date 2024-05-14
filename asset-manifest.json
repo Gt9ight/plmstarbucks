@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/plmstarbucks/static/css/main.d14d1c98.css",
+    "main.js": "/plmstarbucks/static/js/main.86315812.js",
+    "static/js/453.12e7cf3e.chunk.js": "/plmstarbucks/static/js/453.12e7cf3e.chunk.js",
+    "index.html": "/plmstarbucks/index.html",
+    "main.d14d1c98.css.map": "/plmstarbucks/static/css/main.d14d1c98.css.map",
+    "main.86315812.js.map": "/plmstarbucks/static/js/main.86315812.js.map",
+    "453.12e7cf3e.chunk.js.map": "/plmstarbucks/static/js/453.12e7cf3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d14d1c98.css",
+    "static/js/main.86315812.js"
+  ]
+}
